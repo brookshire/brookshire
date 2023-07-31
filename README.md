@@ -1,4 +1,14 @@
-### Hi there 👋
+### 🔭 Greetings and Salutations
+
+I'm an HPC Systems Engineer and Master Technologist at Hewlett Packard Enterprise.  I've started my career running IT shops, and building websites (Magnet Interactive) before people even knew that was a thing.  I moved on to a startup building and supporting low power, high density servers (RLX Technologies) which was then bought by Hewlett Packard (now Hewlett Packard Enterprise.)  
+
+At HPE, I've built on some networking technologies, then helped build out another high density servers solution named Moonshot and Edgeline.  In 2021, I moved from lower power/high density to...well...the opposite end, joining the Cray group (which was also aquired by HPE) building super comptuers.
+
+### 🌱 Currently Learning and Exploring
+
+* Golang
+* Exploring Open Source Document Management Systems
+* Building tools to help HPE's HPC customers to better manage and support their Shasta clusters
 
 <!--
 **brookshire/brookshire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
