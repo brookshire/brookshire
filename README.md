@@ -1,8 +1,8 @@
 ### 🔭 Greetings and Salutations
 
-I'm an HPC Systems Engineer and Master Technologist at Hewlett Packard Enterprise.  I've started my career running IT shops, and building websites (Magnet Interactive) before people even knew that was a thing.  I moved on to a startup building and supporting low power, high density servers (RLX Technologies) which was then bought by Hewlett Packard (now Hewlett Packard Enterprise.)  
+I'm an HPC Systems Engineer and Master Technologist at Hewlett Packard Enterprise.  I've started my career building and running IT shops, and supporting websites (Magnet Interactive) before people even knew that was a thing.  I moved on to a startup which invented a new class of low power, high density servers called Server Blades (RLX Technologies) which was then bought by Hewlett Packard (now Hewlett Packard Enterprise.)  
 
-At HPE, I've built on some networking technologies, then helped build out another high density servers solution named Moonshot and Edgeline.  In 2021, I moved from lower power/high density to...well...the opposite end, joining the Cray group (which was also aquired by HPE) building super comptuers.
+At HPE, I continued to build new networking technologies, helped build out more high density server solutions named Moonshot and Edgeline.  In 2021, I made the jumb from lower power/high density to...well...the opposite, joining the Cray high performance computing group building super computers.
 
 ### 🌱 Currently Learning and Exploring
 
